@@ -1,0 +1,11 @@
+D:\SNHU\CS 230\gameauth\src\main\java\com\gamingroom\gameauth\controller\GameUserRESTController.java
+D:\SNHU\CS 230\gameauth\src\main\java\com\gamingroom\gameauth\GameAuthConfiguration.java
+D:\SNHU\CS 230\gameauth\src\main\java\com\gamingroom\gameauth\GameAuthApplication.java
+D:\SNHU\CS 230\gameauth\src\main\java\com\gamingroom\gameauth\representations\GameUserInfo.java
+D:\SNHU\CS 230\gameauth\src\main\java\com\gamingroom\gameauth\auth\GameUser.java
+D:\SNHU\CS 230\gameauth\src\main\java\com\gamingroom\gameauth\dao\GameUserDB.java
+D:\SNHU\CS 230\gameauth\src\main\java\com\gamingroom\gameauth\healthcheck\AppHealthCheck.java
+D:\SNHU\CS 230\gameauth\src\main\java\com\gamingroom\gameauth\controller\RESTClientController.java
+D:\SNHU\CS 230\gameauth\src\main\java\com\gamingroom\gameauth\auth\GameAuthorizer.java
+D:\SNHU\CS 230\gameauth\src\main\java\com\gamingroom\gameauth\auth\GameAuthenticator.java
+D:\SNHU\CS 230\gameauth\src\main\java\com\gamingroom\gameauth\healthcheck\HealthCheckController.java
