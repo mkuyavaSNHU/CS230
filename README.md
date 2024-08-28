@@ -12,7 +12,7 @@ Ensured the document was clear and simple while providing the client with all cr
 It helped me think through the project and understand and plan for obstacles and constraints that I might encounter during the code development. The Domain Model/UML Diagram was also a nice guide to reference when building the classes. 
 
 •	If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-I think that with more experience I would have a better understanding of might need to be revised within the document I created; however, I currently don’t feel any changes are needed. 
+I think that with more experience I would have a better understanding of might need to be revised within the document I created; however, I currently don’t feel any changes are needed.. 
 
 •	How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 Making the game user friendly with dependable security if important to users. Have the user’s needs as a top priority is important to ensure they want to start or continue to use the product. 
