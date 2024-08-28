@@ -1,5 +1,7 @@
 # CS230
 
+Students will develop a deeper understanding of operating platforms and architectures through the analysis and evaluation of the characteristics, advantages, and weaknesses of each. Students will learn the value of utilizing software design templates as well as how to utilize them to solve problems.
+
 •	Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 The client, The Gaming Room wanted to take their current game, Draw It or Lose It, which was only available on Android and develop a web-based game that is available on multiple platforms. 
 
